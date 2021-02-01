@@ -52,7 +52,8 @@ nav{
 
 
  .photo {
-  width: 75%;
+  width: 1200px;
+   height:700px;
   padding: 1.11rem;
   border-radius: 5px;
   margin: 0 auto 4.44rem auto;
