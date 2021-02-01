@@ -1,0 +1,74 @@
+*{
+  box-sizing: border-box;
+}
+    html {
+        font-family: Georgia;
+        font-size: 16px;
+      }
+  
+nav{
+  width: 100%;
+  position: fixed;
+}
+
+  nav span{
+    padding: 20px;
+    text-align:center;
+  }
+
+  nav span a{
+    font-size: 35px;
+    font-style: italic;
+  }
+  }
+      .header {background-color: rgb(143,188,143);
+        margin-top:30px;
+        height: 200px;
+        }
+       
+      h1 {
+        color:wheat;
+        font-weight: bold;
+        text-align: center;
+        font-size: 100px;
+        font-family: 'Covered By Your Grace', sans-serif;
+        text-transform: uppercase;
+
+        line-height: 76px;}
+       
+       
+      p, 
+      li {
+        font-size: 18px;
+      }
+       
+       
+      a {
+        text-decoration: none;
+        color:black;
+      }
+
+ <!--photo-->
+
+
+ .photo {
+  width: 75%;
+  padding: 1.11rem;
+  border-radius: 5px;
+  margin: 0 auto 4.44rem auto;
+  background-color: white;
+}
+
+.photo .image-container {
+  overflow: hidden;
+  margin-bottom: 1.11rem;
+}
+
+.photo .image-container img {
+  width: 100%;
+}
+
+.photo .caption {
+  font-style: italic;
+}
+      
